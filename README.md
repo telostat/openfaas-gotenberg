@@ -1,5 +1,7 @@
 # OpenFaaS Image for Gotenberg
 
+![](https://img.shields.io/github/v/release/telostat/openfaas-gotenberg)
+
 See [OpenFaaS](https://www.openfaas.com/) and
 [Gotenberg](https://github.com/thecodingmachine/gotenberg/) for
 details.
